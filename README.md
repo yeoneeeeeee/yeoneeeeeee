@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, 
+###       I'm Soyeon, a charming developer. 👋
 
 <!--
 **yeoneeeeeee/yeoneeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
