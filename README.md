@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeon's%20Github&fontSize=70)
 
 
 
@@ -24,8 +24,14 @@
 <!-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> --!>
 
 <br>
-<br>
 
-![Yeoneeeeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeoneeeeeee&theme=dracula&show_icons=true)
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon&layout=compact">--!>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=soyeon&show_icons=true">
+
+<!--[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)]--!>
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoneeeeeee)](https://github.com/yeoneeeeeee/github-readme-stats)--!>
+
 
 
