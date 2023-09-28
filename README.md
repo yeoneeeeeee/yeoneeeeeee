@@ -2,12 +2,21 @@
 
 
 
-# Hello, I am Soyeon. 👋 <br> I am a progressive and attractive developer. 😘💕
+# Hello, I am Soyeon. 👋 
+
+<br> 
+
+## I am a progressive and attractive developer. 😘💕
+- [🌟 My Study](https://yeoneeluv.tistory.com/)
+
+- [🕶️ My Portfolio](https://rebel-diplodocus-7f4.notion.site/0fed9c68a6e84ad195d357586b3114f3?pvs=4)
+
 
 <br>
 <br>
 
 ## 💼 Tech Stack 💼
+
 ### 💗 Platforms & Languages 💗
 
 <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
@@ -25,7 +34,7 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeoneeeeeee&count_bg=%23F0406A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoneeeeeee&layout=compact)--!>
 
