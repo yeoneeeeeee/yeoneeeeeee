@@ -25,6 +25,10 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoneeeeeee)](https://github.com/yeoneeeeeee/github-readme-stats)
+
+<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)--!>
+
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon&layout=compact">--!>
 <br><br>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=soyeon&show_icons=true">--!>
